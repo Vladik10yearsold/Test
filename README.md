@@ -1,26 +1,16 @@
-## Technical Skills
+# Hi, I'm Vlad 👋
 
-- **Programming languages:** Python, C++, Java, SQL
-- **Data analysis and machine learning:** NumPy, pandas, scikit-learn
-- **API development:** FastAPI
-- **Web technologies:** HTML5, CSS3
-- **Tools and platforms:** GitHub, MATLAB
-- **Natural language processing:** text preprocessing, sentiment analysis
+I'm an AI student and Python developer with a focus on machine learning, NLP, and automation. I'm pursuing a bachelor's degree in Artificial Intelligence at **Xiamen University Malaysia**, with expected graduation in **2028**.
 
-## Projects
+### What I work on
 
-### Aspect-Based Sentiment Analysis
-A team university project focused on analyzing customer reviews
-and identifying sentiment towards specific product aspects.
+I work in a two-person team developing and deploying **Python-based automated trading systems** for personal use and copy trading. Our work involves designing trading logic and integrating bots with an exchange API. My partner manages product promotion and our communities Telegram. t.me/crypto_da_vinchi t.me/Dnevnik_Invest0ra
 
-### Python Trading Bot
-A personal project involving automated trading through an exchange API.
+You can learn more about the project and contact my project partner through our two Telegram communities.
 
-### Medical Clinic Management System
-A university C++ project using object-oriented programming
-to organize patients, doctors, and appointment records.
+### Technologies & Tools
 
-## Education
-
-**Xiamen University Malaysia**  
-Bachelor's Degree in Artificial Intelligence — In Progress
+- **Languages:** Python, C++, Java, SQL
+- **Data & ML:** NumPy, pandas, scikit-learn
+- **Web & APIs:** FastAPI, HTML5, CSS3
+- **Tools:** GitHub, MATLAB, Code::Blocks, Wireshark
