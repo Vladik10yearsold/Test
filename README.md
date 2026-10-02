@@ -4,7 +4,7 @@ I'm an AI student and Python developer with a focus on machine learning, NLP, an
 
 ### What I work on
 
-I work in a two-person team developing and deploying **Python-based automated trading systems** for personal use and copy trading. Our work involves designing trading logic and integrating bots with an exchange API. My partner manages product promotion and our communities Telegram. t.me/crypto_da_vinchi t.me/Dnevnik_Invest0ra
+I work in a two-person team developing and deploying **Python-based automated trading systems** for personal use and copy trading. Our work involves designing trading logic and integrating bots with an exchange API. My partner manages product promotion and our communities Telegram. [Crypto Da Vinci](https://t.me/crypto_da_vinchi) · [Дневник инвестора](https://t.me/Dnevnik_Invest0ra)
 
 You can learn more about the project and contact my project partner through our two Telegram communities.
 
